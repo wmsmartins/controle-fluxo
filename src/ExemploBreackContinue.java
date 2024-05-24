@@ -5,7 +5,7 @@ public class ExemploBreackContinue {
                 continue;
 
             System.out.println(numero); 
-            //teste continue   
+            //teste breack continue ok.  
         }
     }
 }
